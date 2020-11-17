@@ -1,0 +1,5 @@
+.pytest_cache
+.vscode
+conftest.py
+test_main.py
+test.py
